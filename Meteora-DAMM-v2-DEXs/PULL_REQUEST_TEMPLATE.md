@@ -1,0 +1,1 @@
+This PR contains the initial scaffolding for the Meteora DAMM v2 Dashboard project, including a Next.js setup with TypeScript. Let's merge into main and build core functionality.
