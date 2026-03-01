@@ -1,2 +1,3 @@
 # Meteora-DAMM-v2-DEXs
-DAMM v2 web defi dexs
+
+This is a Next.js project scaffold with TypeScript support.
